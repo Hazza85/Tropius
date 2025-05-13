@@ -1,0 +1,179 @@
+{
+    "opening": [
+        {
+            "text": "Hi there, looks like I am having some trouble in my journey."
+        },
+        {
+            "text": "My spaceship has crashed and I am now stranded on this planet."
+        },
+        {
+            "text": "Would you be willing to help?"
+        },
+        {
+            "text": "Help me gather info modules so that I can get back home."
+        },
+        {
+            "text": "Let me show you how to find these modules. Let's start by finding my spaceship."
+        },
+        {
+            "text": "Please press the above button so we can start looking for my spaceship.",
+            "flag": "dialogue:stay"
+        }
+    ],
+    "spaceship": [
+        {
+            "text": "There it is, we found it!"
+        }
+    ],
+    "firstSpaceship": [
+        {
+            "text": "Thanks for finding my spaceship."
+        },
+        {
+            "text": "But looks like the info modules are all scattered."
+        },
+        {
+            "text": "Can you help me assemble the modules?"
+        },
+        {
+            "text": "If you assemble all modules correctly, my spaceship will be able to fly."
+        },
+        {
+            "text": "To assemble a module, assemble 4 cards into a square shape."
+        },
+        {
+            "text": "Use the information in the cards to assemble the modules correctly together."
+        },
+        {
+            "text": "Once you have assembled a module, use the camera to look at the tag and press scan."
+        },
+        {
+            "text": "If the cards are correct and assembled correctly, collect the module by tapping it."
+        },
+        {
+            "text": "Let's get to work finding the modules."
+        }
+    ],
+    "spaceshipLaunch": [
+        {
+            "text": "I can now go back home thanks to you!"
+        },
+        {
+            "text": "Will you launch the ship?"
+        }
+    ],
+    "navigatorOpening": [
+        {
+            "text": "This is the menu which will let you track all the modules we have found.",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "Let's get the gravitropism module first."
+        },
+        {
+            "text": "Can you find all the data associated with gravitropism?"
+        }
+    ],
+    "levelAccessedEarly": [
+        {
+            "text": "We can do this later, we need other modules to be able to assemble this one.",
+            "flag": "otherButtons:disable"
+        }
+    ],
+    "levelAlreadyCompleted": [
+        {
+            "text": "We have already found this module, we do not need to do this again.",
+            "flag": "otherButtons:disable"
+        }
+    ],
+    "slottingModule0": [
+        {
+            "text": "That's right! Gravitropism is the growth or movement in response to gravity."
+        },
+        {
+            "text": "Let's put this module into the correct slot.",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "We can do this by dragging the module into the slots."
+        }
+    ],
+    "slottingModule1": [
+        {
+            "text": "Correct! Thermotropism is the growth response of a plant to temperature."
+        },
+        {
+            "text": "Let's put this module into the correct slot.",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "We can do this by dragging the module into the slots."
+        }
+    ],
+    "slottingModule2": [
+        {
+            "text": "Fantastic! Hydrotropism is the growth or movement in response to water."
+        },
+        {
+            "text": "Let's put this module into the correct slot.",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "We can do this by dragging the module into the slots."
+        }
+    ],
+    "slottingModule3": [
+        {
+            "text": "Correct! Thigmotropism is the growth or movement in response to touch."
+        },
+        {
+            "text": "Let's put this module into the correct slot.",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "We can do this by dragging the module into the slots."
+        }
+    ],
+    "slottingModule4": [
+        {
+            "text": "That's right! Phototropism is the growth or movement in response to light."
+        },
+        {
+            "text": "Let's put this module into the correct slot.",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "We can do this by dragging the module into the slots."
+        }
+    ],
+    "incorrectModule": [
+        {
+            "text": "This does not seem to be the correct slot for this module",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "Let's try this again."
+        }
+    ],
+    "correctModule": [
+        {
+            "text": "That's correct, the module is now slotted!",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "Let's move on to finding the next module."
+        }
+    ],
+    "allModules": [
+        {
+            "text": "That's correct, the module is now slotted!",
+            "flag": "otherButtons:disable"
+        },
+        {
+            "text": "Looks like we have found all the modules!"
+        },
+        {
+            "text": "Let's try launching the spaceship."
+        }
+    ]
+}

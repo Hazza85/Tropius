@@ -1,3 +1,5 @@
 Tesseract https://sketchfab.com/3d-models/tesseract-c6678a45691f43db9ba45573d6f2a407 by deecube1
 Rocket https://sketchfab.com/3d-models/rocket-9b9b64b138f24e4a908238c0b471930e by lizlancaster
 Cube https://sketchfab.com/3d-models/cube-13568cb7f3374c09967addcc0d120f04 by 小鳥遊ゆうき
+Sci-Fi Cube https://sketchfab.com/3d-models/sci-fi-cube-2c4b8f6de26b4e869d342a92d881debe by Memorie
+Helipad and ShadowCatcherMaterial provided by WebXR AR Starter Kit
